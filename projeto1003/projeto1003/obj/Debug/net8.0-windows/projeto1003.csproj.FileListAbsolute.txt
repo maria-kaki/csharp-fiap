@@ -1,0 +1,17 @@
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\bin\Debug\net8.0-windows\projeto1003.exe
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\bin\Debug\net8.0-windows\projeto1003.deps.json
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\bin\Debug\net8.0-windows\projeto1003.runtimeconfig.json
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\bin\Debug\net8.0-windows\projeto1003.dll
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\bin\Debug\net8.0-windows\projeto1003.pdb
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\obj\Debug\net8.0-windows\projeto1003.Form1.resources
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\obj\Debug\net8.0-windows\projeto1003.csproj.GenerateResource.cache
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\obj\Debug\net8.0-windows\projeto1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\obj\Debug\net8.0-windows\projeto1003.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\obj\Debug\net8.0-windows\projeto1003.AssemblyInfo.cs
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\obj\Debug\net8.0-windows\projeto1003.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\obj\Debug\net8.0-windows\projeto1003.dll
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\obj\Debug\net8.0-windows\refint\projeto1003.dll
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\obj\Debug\net8.0-windows\projeto1003.pdb
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\obj\Debug\net8.0-windows\projeto1003.genruntimeconfig.cache
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\obj\Debug\net8.0-windows\ref\projeto1003.dll
+C:\Users\labsfiap\Downloads\projeto1003\projeto1003\obj\Debug\net8.0-windows\projeto1003.TelaUsuario.resources
